@@ -1,0 +1,1773 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+                              CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj (__aeabi_fmul)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                              CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj (__aeabi_fsub)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                              CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj (__aeabi_fdiv)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
+                              CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj (__aeabi_fcmpeq)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixsfsi.o)
+                              CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj (__aeabi_f2iz)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                              CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj (__aeabi_f2uiz)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+                              CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj (__errno)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+                              d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                              d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                              d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                              d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                              d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                              d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                              d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                              d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                              d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text.GetAlphaColorRGB888
+                0x00000000       0x5c CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text.RGB888ToRGB565
+                0x00000000       0x1a CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text.RGB565ToRGB888
+                0x00000000       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text.LCD_DrawFullRect
+                0x00000000       0x90 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text.LCD_DrawCircle
+                0x00000000      0x102 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text.LCD_FillCircle
+                0x00000000       0xcc CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text.LCD_DrawLine
+                0x00000000       0xd8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text.drawCurve
+                0x00000000       0x90 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text.LCD_DrawChar
+                0x00000000       0x84 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text.LCD_DrawString
+                0x00000000       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text.LCD_DrawStringMessy
+                0x00000000       0x4a CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text.LCD_DrawVariable
+                0x00000000      0x1c8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text.InterBresenhamline
+                0x00000000       0x62 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .bss.lastX     0x00000000        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .bss.lastY     0x00000000        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .data.firstPoint
+                0x00000000        0x1 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .rodata.char_24x24
+                0x00000000      0x948 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .rodata.char_32x32
+                0x00000000      0x180 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .rodata.f_48x96
+                0x00000000     0x1680 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .rodata.font_48x96
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .rodata.font_Num_12x24
+                0x00000000      0x300 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .rodata.font_Num_40x40
+                0x00000000      0x4b0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .rodata.font_char_24x24
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .rodata.font_char_32x32
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .rodata.font_num_12x24
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .rodata.font_num_40x40
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .debug_info    0x00000000      0x244 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .debug_abbrev  0x00000000       0xd0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .debug_line    0x00000000      0x160 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .debug_str     0x00000000      0x294 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/img.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/img.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/img.c.obj
+ .debug_info    0x00000000       0x6b CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/img.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/img.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/img.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/img.c.obj
+ .debug_str     0x00000000      0x1d3 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/img.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/img.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/img.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .text.setPixelAlpha
+                0x00000000       0x34 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .text.abs      0x00000000        0xa CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .text.lineAnti_Wu
+                0x00000000      0x100 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .text.lineAnti_WuMulti
+                0x00000000      0x12e CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .rodata.img    0x00000000     0x4e20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .rodata.logo   0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .rodata.logo_bmp
+                0x00000000     0x3200 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x00000000        0x4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x00000000       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x00000000       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._sbrk    0x00000000       0x3c CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x00000000        0x6 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x00000000        0xa CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x00000000        0x4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x00000000        0x4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x00000000        0xa CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x00000000        0x6 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x00000000        0xa CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .bss.heap_end.0
+                0x00000000        0x4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00000000      0x835 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x1da CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .debug_loc     0x00000000      0x436 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0xb0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x00000000       0xa0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x47f CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000      0x476 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x00000000      0x1a8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0x94 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .rodata.APBPrescTable
+                0x00000000        0x8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x2c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000        0xe CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000        0xe CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x60 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x00000000       0x2c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x00000000       0x6c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x00000000       0x68 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x00000000       0x50 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x00000000       0x74 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x00000000       0x44 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort_IT
+                0x00000000       0x98 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x22c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x00000000      0x144 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x4a CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x5a CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x00000000        0x6 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x00000000      0x846 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_abbrev  0x00000000      0x223 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_loc     0x00000000      0x7d1 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_aranges
+                0x00000000       0x80 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_ranges  0x00000000       0x70 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x00000000      0xac4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_str     0x00000000      0x653 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_frame   0x00000000      0x144 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000       0xd8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000       0xac CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0x88 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000        0xe CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_info    0x00000000      0x5b4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_abbrev  0x00000000      0x1e0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_loc     0x00000000      0x45f CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_aranges
+                0x00000000       0x60 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_ranges  0x00000000       0x50 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x65c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x42c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_frame   0x00000000       0xd4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x00000000       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x00000000       0x70 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x6c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000      0x154 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x34 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x28 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000        0x8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x68 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0xa0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss.pFlash    0x00000000       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_info    0x00000000      0x698 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_abbrev  0x00000000      0x22d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_loc     0x00000000      0x3a2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_aranges
+                0x00000000       0x88 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_ranges  0x00000000       0x78 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x7f9 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x585 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_frame   0x00000000      0x134 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x00000000       0x68 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x48 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_ProgramData
+                0x00000000       0x40 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBErase
+                0x00000000       0x50 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x00000000       0xc0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x00000000       0xc8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0x9c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetUserData
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0xa4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x60 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_info    0x00000000      0xafa CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x00000000      0x234 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_loc     0x00000000      0x87f CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x00000000       0x98 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_ranges  0x00000000       0x88 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0x98b CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x69b CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_frame   0x00000000      0x194 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x100 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xe CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_TogglePin
+                0x00000000       0x12 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_ConfigEventout
+                0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_EnableEventout
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_DisableEventout
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_info    0x00000000      0x15c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_abbrev  0x00000000       0xda CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_loc     0x00000000       0x25 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_ranges  0x00000000       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_line    0x00000000      0x1ff CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_str     0x00000000      0x2ad CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_frame   0x00000000       0x40 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.PWR_OverloadWfe
+                0x00000000        0x6 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0x84 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x48 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x00000000        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x00000000       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_info    0x00000000      0x6a7 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_abbrev  0x00000000      0x1de CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_loc     0x00000000      0x142 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_ranges  0x00000000       0x98 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x500 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x4f1 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_frame   0x00000000      0x140 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000       0xf4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x50 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0xb4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x3c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x118 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x2c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata.HAL_RCCEx_GetPeriphCLKFreq.str1.4
+                0x00000000       0x11 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000       0xfc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_info    0x00000000      0x443 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00000000      0x1d2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_loc     0x00000000      0x3c8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x00000000       0x38 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_line    0x00000000      0x50f CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000      0x429 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00000000       0x64 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_info    0x00000000       0x6b CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_str     0x00000000      0x1f9 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_info    0x00000000       0x6b CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_str     0x00000000      0x1fc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_DrawMesh
+                0x00000000       0x50 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_DrawCircle
+                0x00000000      0x128 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_DrawArc
+                0x00000000      0x160 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_FillRoundFrame
+                0x00000000      0x150 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_DrawRoundFrame
+                0x00000000       0xd8 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_FillCircle
+                0x00000000       0xf6 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ConsoleSetArea
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ConsoleSetForecolor
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ConsoleSetBackcolor
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_SetForecolor
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_SetBackcolor
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_FontSetHSpace
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_FontSetVSpace
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_PutChar
+                0x00000000       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_PutString
+                0x00000000       0x98 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ConsolePutString
+                0x00000000       0xb8 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text._UG_DeleteObject
+                0x00000000       0x32 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_DriverDisable
+                0x00000000       0x2c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WaitForUpdate
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TouchUpdate
+                0x00000000       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowDelete
+                0x00000000       0x44 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowResize
+                0x00000000      0x148 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetForeColor
+                0x00000000       0x22 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetBackColor
+                0x00000000       0x22 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetTitleTextColor
+                0x00000000       0x22 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetTitleColor
+                0x00000000       0x22 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetTitleInactiveTextColor
+                0x00000000       0x22 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetTitleInactiveColor
+                0x00000000       0x22 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetTitleText
+                0x00000000       0x22 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetTitleTextFont
+                0x00000000       0x3e CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetTitleTextHSpace
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetTitleTextVSpace
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetTitleTextAlignment
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetTitleHeight
+                0x00000000       0x2a CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetXStart
+                0x00000000       0x3c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetYStart
+                0x00000000       0x3e CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetXEnd
+                0x00000000       0x3e CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowSetYEnd
+                0x00000000       0x3c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetForeColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetBackColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetTitleTextColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetTitleColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowAlert
+                0x00000000       0x30 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetTitleInactiveTextColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetTitleInactiveColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetTitleText
+                0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetTitleTextFont
+                0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetTitleTextHSpace
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetTitleTextVSpace
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetTitleTextAlignment
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetTitleHeight
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetXStart
+                0x00000000       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetYStart
+                0x00000000       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetXEnd
+                0x00000000       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetYEnd
+                0x00000000       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetStyle
+                0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text._UG_CheckboxUpdate
+                0x00000000      0x50c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetOuterWidth
+                0x00000000       0x26 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetInnerHeight
+                0x00000000       0x42 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowGetOuterHeight
+                0x00000000       0x26 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text._UG_WindowClear
+                0x00000000       0x68 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_WindowHide
+                0x00000000       0x88 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonDelete
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonShow
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonHide
+                0x00000000       0x34 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonSetForeColor
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonSetAlternateForeColor
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonSetAlternateBackColor
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonSetHSpace
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonSetVSpace
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonSetAlignment
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonGetForeColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonGetBackColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonGetAlternateForeColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonGetAlternateBackColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonGetText
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonGetFont
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonGetStyle
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonGetHSpace
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonGetVSpace
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ButtonGetAlignment
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxCreate
+                0x00000000       0xbc CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxDelete
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxShow
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxHide
+                0x00000000       0x34 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxSetCheched
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxSetForeColor
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxSetBackColor
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxSetAlternateForeColor
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxSetAlternateBackColor
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxSetText
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxSetFont
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxSetStyle
+                0x00000000       0x92 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxSetHSpace
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxSetVSpace
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxSetAlignment
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxGetChecked
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxGetForeColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxGetBackColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxGetAlternateForeColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxGetAlternateBackColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxGetText
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxGetFont
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxGetStyle
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxGetHSpace
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxGetVSpace
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_CheckboxGetAlignment
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxDelete
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxShow
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxHide
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxSetForeColor
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxSetBackColor
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxSetHSpace
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxSetVSpace
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxGetForeColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxGetBackColor
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxGetText
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxGetFont
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxGetHSpace
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxGetVSpace
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_TextboxGetAlignment
+                0x00000000       0x16 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ImageDelete
+                0x00000000        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ImageShow
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text.UG_ImageHide
+                0x00000000       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .rodata.FONT_10X16
+                0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .rodata.FONT_12X16
+                0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .rodata.FONT_22X36
+                0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .rodata.FONT_8X12
+                0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .rodata.FONT_8X14
+                0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .rodata.font_10x16
+                0x00000000     0x2000 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .rodata.font_12x16
+                0x00000000     0x2000 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .rodata.font_22x36
+                0x00000000     0x6c00 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .rodata.font_8x12
+                0x00000000      0xc00 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .rodata.font_8x14
+                0x00000000      0xe00 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .rodata.pal_checkbox_pressed
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .rodata.pal_checkbox_released
+                0x00000000       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .text          0x00000000       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+ .data          0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+ .text          0x00000000      0x168 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x00000000       0x24 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x00000000       0x1d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .text          0x00000000      0x21c d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x00000000       0x4c d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000       0x1d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .text          0x00000000      0x2a0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x00000000       0x38 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x00000000       0x1d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .text          0x00000000       0xec d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_frame   0x00000000       0xc8 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000       0x1d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .text          0x00000000       0x4c d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .debug_frame   0x00000000       0x24 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x00000000       0x1d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .text          0x00000000       0x40 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x00000000       0x24 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x00000000       0x1d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .text          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .text          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xc4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x00000000        0x1 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+ .data          0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x00000000        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00005000         xrw
+FLASH            0x08000000         0x00010000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+LOAD d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/font.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/img.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+LOAD CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+START GROUP
+LOAD d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a
+LOAD d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+END GROUP
+LOAD d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+LOAD d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+                0x20005000                _estack = 0x20005000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+                0x08000000                g_pfnVectors
+                0x0800010c                . = ALIGN (0x4)
+
+.text           0x0800010c     0x2ba4
+                0x0800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0x40 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.text*)
+ .text.LCD_WR_REG
+                0x0800014c       0x28 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+                0x0800014c                LCD_WR_REG
+ .text.LCD_WR_DATA8
+                0x08000174       0x28 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+                0x08000174                LCD_WR_DATA8
+ .text.LCD_WR_DATA16
+                0x0800019c       0x40 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+                0x0800019c                LCD_WR_DATA16
+ .text.LCD_Address_Set
+                0x080001dc       0x36 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+                0x080001dc                LCD_Address_Set
+ *fill*         0x08000212        0x2 
+ .text.LCD_Clear
+                0x08000214       0x68 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+                0x08000214                LCD_Clear
+ .text.Lcd_Init
+                0x0800027c      0x1d4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+                0x0800027c                Lcd_Init
+ .text.LCD_DrawPixel
+                0x08000450       0x3e CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+                0x08000450                LCD_DrawPixel
+ *fill*         0x0800048e        0x2 
+ .text.LCD_DrawLineVH
+                0x08000490       0xac CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+                0x08000490                LCD_DrawLineVH
+ .text.MX_GPIO_Init
+                0x0800053c       0xa4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+                0x0800053c                MX_GPIO_Init
+ .text.window_1_callback
+                0x080005e0        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x080005e0                window_1_callback
+ .text.Driver_DrawPixel
+                0x080005e2        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x080005e2                Driver_DrawPixel
+ .text.Driver_DrawLine
+                0x080005ee       0x48 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x080005ee                Driver_DrawLine
+ *fill*         0x08000636        0x2 
+ .text.Driver_FillFrame
+                0x08000638       0x78 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x08000638                Driver_FillFrame
+ .text.Driver_DrawImage
+                0x080006b0       0x58 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x080006b0                Driver_DrawImage
+ .text.Error_Handler
+                0x08000708        0x4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x08000708                Error_Handler
+ .text.SystemClock_Config
+                0x0800070c       0x64 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x0800070c                SystemClock_Config
+ .text.main     0x08000770      0x178 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x08000770                main
+ .text.HAL_MspInit
+                0x080008e8       0x44 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x080008e8                HAL_MspInit
+ .text.NMI_Handler
+                0x0800092c        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800092c                NMI_Handler
+ .text.HardFault_Handler
+                0x0800092e        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800092e                HardFault_Handler
+ .text.MemManage_Handler
+                0x08000930        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000930                MemManage_Handler
+ .text.BusFault_Handler
+                0x08000932        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000932                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000934        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000934                UsageFault_Handler
+ .text.SVC_Handler
+                0x08000936        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000936                SVC_Handler
+ .text.DebugMon_Handler
+                0x08000938        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000938                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0800093a        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800093a                PendSV_Handler
+ .text.SysTick_Handler
+                0x0800093c        0x8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800093c                SysTick_Handler
+ .text.SystemInit
+                0x08000944        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08000944                SystemInit
+ *fill*         0x08000946        0x2 
+ .text.HAL_InitTick
+                0x08000948       0x4c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000948                HAL_InitTick
+ .text.HAL_Init
+                0x08000994       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000994                HAL_Init
+ .text.HAL_IncTick
+                0x080009b8       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080009b8                HAL_IncTick
+ .text.HAL_GetTick
+                0x080009d0        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080009d0                HAL_GetTick
+ .text.HAL_Delay
+                0x080009dc       0x28 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080009dc                HAL_Delay
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x08000a04       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000a04                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x08000a28       0x70 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000a28                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x08000a98       0x28 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000a98                HAL_SYSTICK_Config
+ .text.HAL_GPIO_Init
+                0x08000ac0      0x224 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000ac0                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x08000ce4        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000ce4                HAL_GPIO_WritePin
+ .text.RCC_Delay
+                0x08000cf0       0x2c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_OscConfig
+                0x08000d1c      0x410 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08000d1c                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x0800112c       0x6c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0800112c                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x08001198      0x16c CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001198                HAL_RCC_ClockConfig
+ .text.UG_Init  0x08001304       0x80 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001304                UG_Init
+ .text.UG_SelectGUI
+                0x08001384        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001384                UG_SelectGUI
+ .text.UG_FontSelect
+                0x08001390       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001390                UG_FontSelect
+ .text.UG_FillFrame
+                0x080013b4       0x70 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x080013b4                UG_FillFrame
+ .text.UG_FillScreen
+                0x08001424       0x28 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001424                UG_FillScreen
+ .text.UG_DrawPixel
+                0x0800144c       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x0800144c                UG_DrawPixel
+ .text.UG_DrawLine
+                0x0800145c      0x11c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x0800145c                UG_DrawLine
+ .text.UG_DrawFrame
+                0x08001578       0x52 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001578                UG_DrawFrame
+ *fill*         0x080015ca        0x2 
+ .text.UG_GetXDim
+                0x080015cc       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x080015cc                UG_GetXDim
+ .text.UG_GetYDim
+                0x080015dc       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x080015dc                UG_GetYDim
+ .text._UG_PutChar
+                0x080015ec      0x330 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x080015ec                _UG_PutChar
+ .text._UG_PutText
+                0x0800191c      0x168 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x0800191c                _UG_PutText
+ .text._UG_GetFreeObject
+                0x08001a84       0x2a CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001a84                _UG_GetFreeObject
+ .text._UG_SearchObject
+                0x08001aae       0x42 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001aae                _UG_SearchObject
+ .text._UG_ProcessTouchData
+                0x08001af0       0xc0 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001af0                _UG_ProcessTouchData
+ .text._UG_UpdateObjects
+                0x08001bb0       0x5c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001bb0                _UG_UpdateObjects
+ .text._UG_HandleEvents
+                0x08001c0c       0x5c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001c0c                _UG_HandleEvents
+ .text._UG_DrawObjectFrame
+                0x08001c68      0x132 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001c68                _UG_DrawObjectFrame
+ .text._UG_SendObjectPrerenderEvent
+                0x08001d9a       0x28 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001d9a                _UG_SendObjectPrerenderEvent
+ .text._UG_SendObjectPostrenderEvent
+                0x08001dc2       0x2a CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001dc2                _UG_SendObjectPostrenderEvent
+ .text.UG_DriverRegister
+                0x08001dec       0x1c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001dec                UG_DriverRegister
+ .text.UG_DriverEnable
+                0x08001e08       0x2c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001e08                UG_DriverEnable
+ .text.UG_DrawBMP
+                0x08001e34       0x9c CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001e34                UG_DrawBMP
+ .text.UG_WindowCreate
+                0x08001ed0       0xb4 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001ed0                UG_WindowCreate
+ .text.UG_WindowShow
+                0x08001f84       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001f84                UG_WindowShow
+ .text.UG_WindowSetStyle
+                0x08001fa8       0x52 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001fa8                UG_WindowSetStyle
+ .text.UG_WindowGetArea
+                0x08001ffa       0x6e CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08001ffa                UG_WindowGetArea
+ .text._UG_ButtonUpdate
+                0x08002068      0x228 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08002068                _UG_ButtonUpdate
+ .text._UG_TextboxUpdate
+                0x08002290       0xfe CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08002290                _UG_TextboxUpdate
+ .text._UG_ImageUpdate
+                0x0800238e       0xb6 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x0800238e                _UG_ImageUpdate
+ .text.UG_WindowGetInnerWidth
+                0x08002444       0x34 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08002444                UG_WindowGetInnerWidth
+ .text._UG_WindowDrawTitle
+                0x08002478       0xf0 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08002478                _UG_WindowDrawTitle
+ .text._UG_WindowUpdate
+                0x08002568       0xe4 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08002568                _UG_WindowUpdate
+ .text.UG_Update
+                0x0800264c       0xb0 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x0800264c                UG_Update
+ .text.UG_ButtonCreate
+                0x080026fc       0xbc CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x080026fc                UG_ButtonCreate
+ .text.UG_ButtonSetBackColor
+                0x080027b8       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x080027b8                UG_ButtonSetBackColor
+ .text.UG_ButtonSetText
+                0x080027dc       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x080027dc                UG_ButtonSetText
+ .text.UG_ButtonSetFont
+                0x08002800       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08002800                UG_ButtonSetFont
+ .text.UG_ButtonSetStyle
+                0x08002824       0x92 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08002824                UG_ButtonSetStyle
+ *fill*         0x080028b6        0x2 
+ .text.UG_TextboxCreate
+                0x080028b8       0xb0 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x080028b8                UG_TextboxCreate
+ .text.UG_TextboxSetText
+                0x08002968       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08002968                UG_TextboxSetText
+ .text.UG_TextboxSetFont
+                0x0800298c       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x0800298c                UG_TextboxSetFont
+ .text.UG_TextboxSetAlignment
+                0x080029b0       0x24 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x080029b0                UG_TextboxSetAlignment
+ .text.UG_ImageCreate
+                0x080029d4       0x84 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x080029d4                UG_ImageCreate
+ .text.UG_ImageSetBMP
+                0x08002a58       0x28 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08002a58                UG_ImageSetBMP
+ .text.Reset_Handler
+                0x08002a80       0x48 CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+                0x08002a80                Reset_Handler
+ .text.Default_Handler
+                0x08002ac8        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+                0x08002ac8                RTC_Alarm_IRQHandler
+                0x08002ac8                EXTI2_IRQHandler
+                0x08002ac8                TIM1_CC_IRQHandler
+                0x08002ac8                PVD_IRQHandler
+                0x08002ac8                EXTI3_IRQHandler
+                0x08002ac8                EXTI0_IRQHandler
+                0x08002ac8                I2C2_EV_IRQHandler
+                0x08002ac8                ADC1_2_IRQHandler
+                0x08002ac8                SPI1_IRQHandler
+                0x08002ac8                TAMPER_IRQHandler
+                0x08002ac8                DMA1_Channel4_IRQHandler
+                0x08002ac8                USART3_IRQHandler
+                0x08002ac8                RTC_IRQHandler
+                0x08002ac8                DMA1_Channel7_IRQHandler
+                0x08002ac8                CAN1_RX1_IRQHandler
+                0x08002ac8                TIM4_IRQHandler
+                0x08002ac8                I2C1_EV_IRQHandler
+                0x08002ac8                DMA1_Channel6_IRQHandler
+                0x08002ac8                TIM3_IRQHandler
+                0x08002ac8                RCC_IRQHandler
+                0x08002ac8                TIM1_TRG_COM_IRQHandler
+                0x08002ac8                DMA1_Channel1_IRQHandler
+                0x08002ac8                Default_Handler
+                0x08002ac8                EXTI15_10_IRQHandler
+                0x08002ac8                EXTI9_5_IRQHandler
+                0x08002ac8                SPI2_IRQHandler
+                0x08002ac8                DMA1_Channel5_IRQHandler
+                0x08002ac8                EXTI4_IRQHandler
+                0x08002ac8                USB_LP_CAN1_RX0_IRQHandler
+                0x08002ac8                USB_HP_CAN1_TX_IRQHandler
+                0x08002ac8                DMA1_Channel3_IRQHandler
+                0x08002ac8                TIM1_UP_IRQHandler
+                0x08002ac8                WWDG_IRQHandler
+                0x08002ac8                TIM2_IRQHandler
+                0x08002ac8                TIM1_BRK_IRQHandler
+                0x08002ac8                EXTI1_IRQHandler
+                0x08002ac8                USART2_IRQHandler
+                0x08002ac8                I2C2_ER_IRQHandler
+                0x08002ac8                DMA1_Channel2_IRQHandler
+                0x08002ac8                CAN1_SCE_IRQHandler
+                0x08002ac8                FLASH_IRQHandler
+                0x08002ac8                USART1_IRQHandler
+                0x08002ac8                I2C1_ER_IRQHandler
+                0x08002ac8                USBWakeUp_IRQHandler
+ *fill*         0x08002aca        0x2 
+ .text.__libc_init_array
+                0x08002acc       0x48 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                0x08002acc                __libc_init_array
+ .text.memset   0x08002b14       0xa4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                0x08002b14                memset
+ .text.startup.register_fini
+                0x08002bb8       0x14 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08002bcc        0xc d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                0x08002bcc                atexit
+ .text.__libc_fini_array
+                0x08002bd8       0x2c d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                0x08002bd8                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08002c04        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08002c04                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08002c08        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08002c08                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08002c0c       0x8c d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                0x08002c0c                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x08002c98        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08002c98        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08002c98        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x08002c98        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+                0x08002c98                _init
+ .init          0x08002c9c        0x8 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08002ca4        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+                0x08002ca4                _fini
+ .fini          0x08002ca8        0x8 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+                0x08002cb0                . = ALIGN (0x4)
+                0x08002cb0                _etext = .
+
+.vfp11_veneer   0x08002cb0        0x0
+ .vfp11_veneer  0x08002cb0        0x0 linker stubs
+
+.v4_bx          0x08002cb0        0x0
+ .v4_bx         0x08002cb0        0x0 linker stubs
+
+.iplt           0x08002cb0        0x0
+ .iplt          0x08002cb0        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rodata         0x08002cb0     0xaadc
+                0x08002cb0                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.main.str1.4
+                0x08002cb0       0x12 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ *fill*         0x08002cc2        0x2 
+ .rodata.gImage_a
+                0x08002cc4     0x4e20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x08002cc4                gImage_a
+ .rodata.img0   0x08007ae4        0xc CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x08007ae4                img0
+ .rodata.AHBPrescTable
+                0x08007af0       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08007af0                AHBPrescTable
+ .rodata.HAL_RCC_GetSysClockFreq.str1.4
+                0x08007b00       0x11 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *fill*         0x08007b11        0x3 
+ .rodata.UG_ButtonCreate.str1.4
+                0x08007b14        0x2 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ *fill*         0x08007b16        0x2 
+ .rodata.FONT_12X20
+                0x08007b18       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08007b18                FONT_12X20
+ .rodata.FONT_16X26
+                0x08007b2c       0x14 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08007b2c                FONT_16X26
+ .rodata.font_12x20
+                0x08007b40     0x2800 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x08007b40                font_12x20
+ .rodata.font_16x26
+                0x0800a340     0x3400 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x0800a340                font_16x26
+ .rodata.pal_button_pressed
+                0x0800d740       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x0800d740                pal_button_pressed
+ .rodata.pal_button_released
+                0x0800d758       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x0800d758                pal_button_released
+ .rodata.pal_window
+                0x0800d770       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                0x0800d770                pal_window
+ .rodata._global_impure_ptr
+                0x0800d788        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x0800d788                _global_impure_ptr
+                0x0800d78c                . = ALIGN (0x4)
+
+.rel.dyn        0x0800d78c        0x0
+ .rel.iplt      0x0800d78c        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0800d78c        0x0
+                0x0800d78c                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0800d78c                __exidx_end = .
+
+.preinit_array  0x0800d78c        0x0
+                0x0800d78c                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0800d78c                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0800d78c        0x8
+                0x0800d78c                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x0800d78c        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x0800d790        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x0800d794                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0800d794        0x4
+                0x0800d794                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0800d794        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x0800d798                PROVIDE (__fini_array_end = .)
+                0x0800d798                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x43c load address 0x0800d798
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.MX_TRUE  0x20000000        0x1 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x20000000                MX_TRUE
+ *fill*         0x20000001        0x3 
+ .data.SystemCoreClock
+                0x20000004        0x4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x20000004                SystemCoreClock
+ .data.uwTickFreq
+                0x20000008        0x1 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000008                uwTickFreq
+ *fill*         0x20000009        0x3 
+ .data.uwTickPrio
+                0x2000000c        0x4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x2000000c                uwTickPrio
+ .data.impure_data
+                0x20000010      0x428 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000438        0x4 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x20000438                __atexit_recursive_mutex
+                0x2000043c                . = ALIGN (0x4)
+                0x2000043c                _edata = .
+
+.igot.plt       0x2000043c        0x0 load address 0x0800dbd4
+ .igot.plt      0x2000043c        0x0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x2000043c                . = ALIGN (0x4)
+
+.bss            0x2000043c      0x230 load address 0x0800dbd4
+                0x2000043c                _sbss = .
+                0x2000043c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000043c       0x1c d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.button1_1
+                0x20000458       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x20000458                button1_1
+ .bss.gui       0x20000470       0x6c CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x20000470                gui
+ .bss.image_1   0x200004dc        0x8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x200004dc                image_1
+ .bss.obj_buff_wnd_1
+                0x200004e4      0x140 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x200004e4                obj_buff_wnd_1
+ .bss.window_1  0x20000624       0x34 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                0x20000624                window_1
+ .bss.uwTick    0x20000658        0x4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000658                uwTick
+ .bss.gui       0x2000065c        0x4 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .bss.msg.0     0x20000660        0x8 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .bss.__lock___atexit_recursive_mutex
+                0x20000668        0x1 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x20000668                __lock___atexit_recursive_mutex
+ *(COMMON)
+                0x2000066c                . = ALIGN (0x4)
+ *fill*         0x20000669        0x3 
+                0x2000066c                _ebss = .
+                0x2000066c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x2000066c      0x604 load address 0x0800dbd4
+                0x20000670                . = ALIGN (0x8)
+ *fill*         0x2000066c        0x4 
+                0x20000670                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x20000870                . = (. + _Min_Heap_Size)
+ *fill*         0x20000670      0x200 
+                0x20000c70                . = (. + _Min_Stack_Size)
+ *fill*         0x20000870      0x400 
+                0x20000c70                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .ARM.attributes
+                0x00000077       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+ .ARM.attributes
+                0x000000a4       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x000000d1       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .ARM.attributes
+                0x000000fe       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .ARM.attributes
+                0x0000012b       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .ARM.attributes
+                0x00000158       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .ARM.attributes
+                0x00000185       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x000001b2       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x000001df       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x0000020c       0x2d CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .ARM.attributes
+                0x00000239       0x21 CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+ .ARM.attributes
+                0x0000025a       0x2d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000287       0x2d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x000002b4       0x2d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000002e1       0x2d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000030e       0x2d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000033b       0x2d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000368       0x2d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000395       0x2d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000003c2       0x1d d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+OUTPUT(IPS_C8T6_7789V.elf elf32-littlearm)
+LOAD linker stubs
+LOAD d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+LOAD d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+LOAD d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a
+
+.debug_info     0x00000000     0xcec6
+ .debug_info    0x00000000     0x1b70 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .debug_info    0x00001b70      0x331 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+ .debug_info    0x00001ea1     0x1a2b CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x000038cc      0x211 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x00003add      0x130 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x00003c0d      0x248 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x00003e55      0x7a8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x000045fd      0xd8a CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x00005387      0x66f CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x000059f6      0xa36 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x0000642c     0x6a78 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .debug_info    0x0000cea4       0x22 CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_abbrev   0x00000000     0x1666
+ .debug_abbrev  0x00000000      0x276 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .debug_abbrev  0x00000276      0x13c CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x000003b2      0x37a CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x0000072c       0xe5 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x00000811       0x7e CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x0000088f      0x13e CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x000009cd      0x1f4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x00000bc1      0x341 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x00000f02      0x1e6 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x000010e8      0x27a CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x00001362      0x2f2 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .debug_abbrev  0x00001654       0x12 CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_loc      0x00000000     0xb6b9
+ .debug_loc     0x00000000     0x1b73 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .debug_loc     0x00001b73      0x932 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .debug_loc     0x000024a5       0x15 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_loc     0x000024ba       0xff CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_loc     0x000025b9      0x141 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_loc     0x000026fa      0x71f CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_loc     0x00002e19      0x47d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_loc     0x00003296      0x63e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_loc     0x000038d4     0x7de5 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+
+.debug_aranges  0x00000000      0x9e0
+ .debug_aranges
+                0x00000000       0xc0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .debug_aranges
+                0x000000c0       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+ .debug_aranges
+                0x000000e0       0x78 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x00000158       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_aranges
+                0x00000178       0x60 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_aranges
+                0x000001d8       0x28 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_aranges
+                0x00000200       0xe0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_aranges
+                0x000002e0       0x90 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_aranges
+                0x00000370       0x58 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_aranges
+                0x000003c8       0x90 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000458      0x560 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .debug_aranges
+                0x000009b8       0x28 CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_ranges   0x00000000      0x9f0
+ .debug_ranges  0x00000000       0xe0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .debug_ranges  0x000000e0       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+ .debug_ranges  0x000000f0       0x80 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x00000170       0x10 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_ranges  0x00000180       0x50 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_ranges  0x000001d0       0x18 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_ranges  0x000001e8       0xd0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_ranges  0x000002b8       0xe0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_ranges  0x00000398       0x48 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_ranges  0x000003e0       0xa0 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_ranges  0x00000480      0x550 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .debug_ranges  0x000009d0       0x20 CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_line     0x00000000     0x92ed
+ .debug_line    0x00000000      0xbf4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .debug_line    0x00000bf4      0x265 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x00000e59      0x8f1 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x0000174a      0x1be CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x00001908      0x1d5 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x00001add      0x288 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x00001d65      0x5ce CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x00002333      0x6aa CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x000029dd      0x654 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00003031      0xc9d CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x00003cce     0x5573 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .debug_line    0x00009241       0xac CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_str      0x00000000     0x2940
+ .debug_str     0x00000000      0x44b CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+                                0x4e5 (size before relaxing)
+ .debug_str     0x0000044b       0xcc CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+                                0x2d3 (size before relaxing)
+ .debug_str     0x00000517      0x6ff CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+                                0x9d0 (size before relaxing)
+ .debug_str     0x00000c16       0x86 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                                0x275 (size before relaxing)
+ .debug_str     0x00000c9c       0xe3 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                                0x278 (size before relaxing)
+ .debug_str     0x00000d7f       0xaa CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                                0x2aa (size before relaxing)
+ .debug_str     0x00000e29      0x61a CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                                0x87a (size before relaxing)
+ .debug_str     0x00001443      0x3e7 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                                0x929 (size before relaxing)
+ .debug_str     0x0000182a      0x151 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                                0x456 (size before relaxing)
+ .debug_str     0x0000197b      0x220 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                                0x681 (size before relaxing)
+ .debug_str     0x00001b9b      0xd4a CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+                               0x1320 (size before relaxing)
+ .debug_str     0x000028e5       0x5b CMakeFiles/IPS_C8T6_7789V.elf.dir/startup/startup_stm32f103xb.s.obj
+                                 0x9c (size before relaxing)
+
+.comment        0x00000000       0x4d
+ .comment       0x00000000       0x4d CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+                                 0x4e (size before relaxing)
+ .comment       0x0000004d       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+
+.debug_frame    0x00000000     0x1d3c
+ .debug_frame   0x00000000      0x2b4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/LCD.c.obj
+ .debug_frame   0x000002b4       0x38 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x000002ec      0x16c CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x00000458       0x28 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x00000480       0xa8 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x00000528       0x30 CMakeFiles/IPS_C8T6_7789V.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x00000558      0x1cc CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x00000724      0x118 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x0000083c       0xe4 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x00000920      0x190 CMakeFiles/IPS_C8T6_7789V.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x00000ab0     0x10a0 CMakeFiles/IPS_C8T6_7789V.elf.dir/UGUI/ugui.c.obj
+ .debug_frame   0x00001b50       0x2c d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x00001b7c       0x2c d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x00001ba8       0x5c d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00001c04       0x20 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00001c24       0x34 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x00001c58       0xb0 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x00001d08       0x34 d:/programfiles/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)

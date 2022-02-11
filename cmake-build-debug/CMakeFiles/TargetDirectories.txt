@@ -1,0 +1,3 @@
+C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/CMakeFiles/IPS_C8T6_7789V.elf.dir
+C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/CMakeFiles/rebuild_cache.dir

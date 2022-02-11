@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="IPS_C8T6_7789V"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IPS_C8T6_7789V.elf">
+				<Option output="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/IPS_C8T6_7789V.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F103xB"/>
+					<Add directory="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/UGUI"/>
+					<Add directory="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Inc"/>
+					<Add directory="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc"/>
+					<Add directory="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
+					<Add directory="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include"/>
+					<Add directory="d:\programfiles\gcc-arm-none-eabi-10-2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include/c++/10.2.1"/>
+					<Add directory="d:\programfiles\gcc-arm-none-eabi-10-2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include/c++/10.2.1/arm-none-eabi"/>
+					<Add directory="d:\programfiles\gcc-arm-none-eabi-10-2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include/c++/10.2.1/backward"/>
+					<Add directory="d:\programfiles\gcc-arm-none-eabi-10-2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/include"/>
+					<Add directory="d:\programfiles\gcc-arm-none-eabi-10-2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/include-fixed"/>
+					<Add directory="d:\programfiles\gcc-arm-none-eabi-10-2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 IPS_C8T6_7789V.elf"/>
+					<CompileFile command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IPS_C8T6_7789V.elf/fast">
+				<Option output="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/IPS_C8T6_7789V.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F103xB"/>
+					<Add directory="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/UGUI"/>
+					<Add directory="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Inc"/>
+					<Add directory="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc"/>
+					<Add directory="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
+					<Add directory="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include"/>
+					<Add directory="d:\programfiles\gcc-arm-none-eabi-10-2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include/c++/10.2.1"/>
+					<Add directory="d:\programfiles\gcc-arm-none-eabi-10-2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include/c++/10.2.1/arm-none-eabi"/>
+					<Add directory="d:\programfiles\gcc-arm-none-eabi-10-2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include/c++/10.2.1/backward"/>
+					<Add directory="d:\programfiles\gcc-arm-none-eabi-10-2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/include"/>
+					<Add directory="d:\programfiles\gcc-arm-none-eabi-10-2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/include-fixed"/>
+					<Add directory="d:\programfiles\gcc-arm-none-eabi-10-2020-q4-major\bin\../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 IPS_C8T6_7789V.elf/fast"/>
+					<CompileFile command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ProgramFiles/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Inc/LCD.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Inc/font.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Inc/gpio.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Inc/img.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Inc/main.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Inc/stm32f1xx_hal_conf.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Inc/stm32f1xx_it.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Src/LCD.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Src/font.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Src/gpio.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Src/img.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Src/main.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Src/stm32f1xx_hal_msp.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Src/stm32f1xx_it.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Src/syscalls.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Core/Src/system_stm32f1xx.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Device/ST/STM32F1xx/License.md">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/cmsis_armcc.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/cmsis_armclang.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/cmsis_compiler.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/cmsis_gcc.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/cmsis_iccarm.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/cmsis_version.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/core_armv8mbl.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/core_armv8mml.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/core_cm0.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/core_cm0plus.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/core_cm1.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/core_cm23.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/core_cm3.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/core_cm33.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/core_cm4.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/core_cm7.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/core_sc000.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/core_sc300.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/mpu_armv7.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/mpu_armv8.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/Include/tz_context.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/CMSIS/LICENSE.txt">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/License.md">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/STM32F103C8Tx_FLASH.ld">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/UGUI/IMG0.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/UGUI/image.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/UGUI/ugui.c">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/UGUI/ugui.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/UGUI/ugui_config.h">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/startup/startup_stm32f103xb.s">
+			<Option target="IPS_C8T6_7789V.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/21032/Documents/Clion/C8T6_7789V_UGUI/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
