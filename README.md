@@ -1,7 +1,9 @@
 # C8T6_7789V_UGUI
 
 mcu:stm32f103c8t6
+
 LCD:240x240 7789V
+
 gui:ugui
 
 添加ugui画图驱动
